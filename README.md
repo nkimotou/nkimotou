@@ -11,8 +11,6 @@ I love to read, especially non-fiction math and science.
 Some of my professional interests include:
 Supercomputing, Quantum Computing, Systems Engineering, Cloud Computing, Computational Research, Natural Language Processing, Machine Learning, System Design, API Development, and Mentoring.
 
-Languages:
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;

@@ -18,5 +18,5 @@ Supercomputing, Quantum Computing, Systems Engineering, Cloud Computing, Computa
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"><img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={nkimotou}&theme=blue-green">
-<img src="https://github-readme-stats.vercel.app/api?username={nkimotou}&theme=blue-green">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkimotou&theme=blue-green">
+<img src="https://github-readme-stats.vercel.app/api?username=nkimotou&theme=blue-green">

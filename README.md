@@ -21,4 +21,4 @@ Supercomputing, Quantum Computing, Systems Engineering, Cloud Computing, Computa
 </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-nkimotou&layout=compact&theme=vision-friendly-dark)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkimotou&layout=compact&theme=vision-friendly-dark)]

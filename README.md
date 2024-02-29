@@ -20,4 +20,4 @@ Supercomputing, Quantum Computing, Systems Engineering, Cloud Computing, Computa
 
 </div>
 
-[Nanami's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkimotou)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkimotou)](https://github.com/anuraghazra/github-readme-stats)

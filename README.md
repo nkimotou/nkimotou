@@ -19,3 +19,5 @@ Supercomputing, Quantum Computing, Systems Engineering, Cloud Computing, Computa
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
 
 </div>
+
+[Nanami's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkimotou)

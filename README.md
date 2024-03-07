@@ -19,5 +19,3 @@ Supercomputing, Quantum Computing, Systems Engineering, Cloud Computing, Computa
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
 
 </div>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zf3u3uj6ndguokbmm3sdtn5jzu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0433ff&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)

@@ -7,12 +7,10 @@
 
 I'm a strong advocate for open-source development and collaboration. In my free time I enjoy learning about historical programming languages (Assembly, LISP, Prolog, COBOL, etc) and working on interesting projects. 
 I love to read, especially non-fiction math and science.
-
-<center>
   
-### Current read:
 
-</center>
+
+<h1 align="center">Current Read</h1>
 
 <div align="center">
   <img src="https://m.media-amazon.com/images/I/51EmthSf3jL._AC_UF1000,1000_QL80_.jpg" width = "200"/>

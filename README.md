@@ -8,6 +8,11 @@
 I'm a strong advocate for open-source development and collaboration. In my free time I enjoy learning about historical programming languages (Assembly, LISP, Prolog, COBOL, etc) and working on interesting projects. 
 I love to read, especially non-fiction math and science.
 
+Current read:
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJqZnUyazBjcGo1czF1dDc3M3hneDE1M3Q1dXFnbDJ3bzVoa3llciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/citBl9yPwnUOs/giphy.gif](https://prodimage.images-bn.com/pimages/9780393302417_p0_v4_s600x595.jpg)" width = "300"/>
+</div>
+
 Some of my professional interests include:
 Supercomputing, Quantum Computing, Systems Engineering, Cloud Computing, Computational Research, Natural Language Processing, Machine Learning, System Design, API Development, and Mentoring.
 

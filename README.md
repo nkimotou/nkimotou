@@ -10,12 +10,10 @@ I love to read, especially non-fiction math and science.
 
 Some of my professional interests include:
 Supercomputing, Quantum Computing, Systems Engineering, Cloud Computing, Computational Research, Natural Language Processing, Machine Learning, System Design, API Development, and Mentoring.
-
   
-#### Current Read: 
-
-<div align="left">
-  <img src="https://m.media-amazon.com/images/I/51EmthSf3jL._AC_UF1000,1000_QL80_.jpg" width = "150"/>
+<div align="center">
+  <img src="https://m.media-amazon.com/images/I/51EmthSf3jL._AC_UF1000,1000_QL80_.jpg" width="150"/>
+  <h4>Current Read:</h4>
 </div>
 
 <div align="center" >

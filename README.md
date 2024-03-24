@@ -10,7 +10,7 @@ I love to read, especially non-fiction math and science.
 
 Current read:
 <div align="center">
-  <img src="https://m.media-amazon.com/images/I/51EmthSf3jL._AC_UF1000,1000_QL80_.jpg" width = "300"/>
+  <img src="https://m.media-amazon.com/images/I/51EmthSf3jL._AC_UF1000,1000_QL80_.jpg" width = "200"/>
 </div>
 
 Some of my professional interests include:

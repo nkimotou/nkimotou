@@ -8,10 +8,10 @@
 I'm a strong advocate for open-source development and collaboration. In my free time I enjoy learning about historical programming languages (Assembly, LISP, Prolog, COBOL, etc) and working on interesting projects. 
 I love to read, especially non-fiction math and science.
 
-My New Year's resolution is to work on more side projects as a hobby, so here I am. Please feel free to reach out if you'd like to work on stuff together or need code reviews. We can hash something out on a saturday 🤠
+My New Year's resolution is to work on more side projects as a hobby, so here I am. Please feel free to reach out if you'd like to work on stuff together or need code reviews. We can hash something out 🤠
 
 Some of my professional interests include:
-Supercomputing, Quantum Computing, Systems Engineering, Cloud Computing, Computational Research, Natural Language Processing, Machine Learning, System Design, API Development, and Mentoring.
+Supercomputing, Quantum Computing, Systems Engineering, Cloud Computing, Computational Research, Natural Language Processing, Machine Learning, System Design, Mentoring
 
 <div align="center" >
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;

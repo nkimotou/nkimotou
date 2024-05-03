@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJqZnUyazBjcGo1czF1dDc3M3hneDE1M3Q1dXFnbDJ3bzVoa3llciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/citBl9yPwnUOs/giphy.gif" width = "300"/>
 </div>
 
-
+I'm a Software Engineer with a background in Supercomputing, Cloud computing, and Software Architecture. 
 I'm a strong advocate for open-source development and collaboration. In my free time I enjoy learning about historical programming languages (Assembly, LISP, Prolog, COBOL, etc) and working on interesting projects. 
 I love to read, especially non-fiction math and science.
 

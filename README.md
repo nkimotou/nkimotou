@@ -11,7 +11,7 @@ I love to read, especially non-fiction math and science.
 My New Year's resolution is to work on more side projects as a hobby, so here I am. Please feel free to reach out if you'd like to work on stuff together or need code reviews! 🤠
 
 Some of my professional interests include:
-Supercomputing, Quantum Computing, Systems Engineering, Cloud Computing, Computational Research, Natural Language Processing, System Design, Engineering Leadership
+Supercomputing, Quantum Computing, Systems Engineering, Cloud Computing, Computational Research, Natural Language Processing, System Design, Engineering Leadership, Legacy Systems
 
 <div align="center" >
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;

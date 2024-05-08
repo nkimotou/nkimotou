@@ -1,5 +1,5 @@
 ### Hello! I'm Nanami!👋
-I'm a Staff Software Engineer specializing in Core Services with a background in Supercomputing, Cloud Computing, and Software Architecture.
+I'm a Staff Software Engineer specializing in Core Services/Platform with a background in Supercomputing, Cloud Computing, and Software Architecture.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJqZnUyazBjcGo1czF1dDc3M3hneDE1M3Q1dXFnbDJ3bzVoa3llciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/citBl9yPwnUOs/giphy.gif" width = "300"/>

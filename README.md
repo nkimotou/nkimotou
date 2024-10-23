@@ -1,13 +1,13 @@
 ### Hello! I'm Nanami!👋
-I'm a Staff Software Engineer specializing in Core Services with a background in Supercomputing, Cloud Computing, and Software Architecture.
+I'm a Staff Software Engineer and Computer Scientist specializing in Supercomputing, Legacy Systems, Cloud Computing, and Systems Programming.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJqZnUyazBjcGo1czF1dDc3M3hneDE1M3Q1dXFnbDJ3bzVoa3llciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/citBl9yPwnUOs/giphy.gif" width = "300"/>
 </div>
 
-I'm a strong advocate for open-source development and collaboration. In my free time I enjoy learning about historical programming languages (Assembly, LISP, Prolog, COBOL, etc) and working on interesting projects. 
+I'm a strong advocate for open-source development and collaboration. In my free time I love learning new things, reading, and solving puzzles. 
 
-Some of my professional interests include:
+Some of my professional interests include: 
 Supercomputing, Quantum Computing, Systems Engineering, Cloud Computing, Computational Research, Natural Language Processing, System Design, Engineering Leadership, Legacy Systems
 
 <div align="center" >

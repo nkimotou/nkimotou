@@ -7,8 +7,6 @@ I'm a Staff Software Engineer specializing in Supercomputing, Cloud Computing, I
 
 I'm a strong advocate for open-source development and collaboration. In my free time I love learning new things, reading, and solving puzzles. 
 
-Some of my professional interests include: 
-Supercomputing, Quantum Computing, Systems Engineering, Cloud Computing, Computational Research, Natural Language Processing, System Design, Engineering Leadership, Legacy Systems
 
 <div align="center" >
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;

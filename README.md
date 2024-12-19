@@ -1,5 +1,5 @@
 ### Hello! I'm Nanami!👋
-I'm a Staff Software Engineer and Computer Scientist specializing in Supercomputing, Legacy Systems, Cloud Computing, and Systems Programming.
+I'm a Staff Software Engineer specializing in Supercomputing, Cloud Computing, Infrastructure, and Systems Programming.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJqZnUyazBjcGo1czF1dDc3M3hneDE1M3Q1dXFnbDJ3bzVoa3llciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/citBl9yPwnUOs/giphy.gif" width = "300"/>

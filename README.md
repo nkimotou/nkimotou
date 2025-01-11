@@ -15,6 +15,3 @@ I'm a strong advocate for open-source development and collaboration. In my free 
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
 </div>
 
-//  ======================================
-//  ||         M U G I N A N A M I       ||
-//  ======================================

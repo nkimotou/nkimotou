@@ -1,5 +1,5 @@
 ### Hello! I'm Nanami!👋
-I'm a Staff Software Engineer specializing in Supercomputing, Back-end Infrastructure, Core Services, and Systems Programming.
+I'm a Staff Software Engineer specializing in Supercomputing, Back-end Infrastructure, and Systems Programming.
 I'm a strong advocate for open-source development and continuous learning. 
 
 <div id="header" align="center">

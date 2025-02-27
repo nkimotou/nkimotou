@@ -5,13 +5,13 @@ I'm a strong advocate for open-source development and a big fan of working on le
 
 **The type of teams I really thrive in:**
 
--core infrastructure and services
+- core infrastructure and services
 
--high-performance computing
+- high-performance computing
 
--computational research labs
+- computational research labs
 
--systems/kernal
+- systems/kernal
 
 
 <div id="header" align="center">

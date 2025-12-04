@@ -1,17 +1,10 @@
 ### Hello! I'm Nanami!👋
-I'm a Staff Software Engineer specializing in Supercomputing, Back-end Infrastructure, and Systems Programming. 
 
-I'm a strong advocate for open-source development and a big fan of working on legacy code. I'm a life-long continuous learner, performance-optimizer, and rat on a wheel. 
+I'm a Staff Software Engineer specializing in Core Infrastructure, Supercomputing, Low-Level, and Legacy systems. 
 
-**The type of teams I really thrive in:**
+I get a lot of joy from working on ambiguous problems and mapping out creative, easily maintainable, and feasible solutions. 
 
-- core infrastructure and services
-
-- high-performance computing
-
-- computational research labs
-
-- systems/kernal
+I'm a strong advocate for open-source development, continuous learning, and collaboration. In my free time I love learning new things, reading, and solving puzzles.
 
 
 <div id="header" align="center">
